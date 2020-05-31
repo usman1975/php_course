@@ -2,7 +2,7 @@
 
 const TEST_CONSTANTA = 'asd';
 
-function show_something()
+function showSomething()
 {
     return TEST_CONSTANTA;
 }
